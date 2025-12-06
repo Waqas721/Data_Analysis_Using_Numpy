@@ -1,9 +1,5 @@
 # Data Analysis Using NumPy
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.25.2-orange.svg)](https://numpy.org/)
-[![Support](https://img.shields.io/badge/Support-Email-green.svg)](mailto:wa4723165@gmail.com)
-
 This repository contains Python examples and tutorials for **data analysis using NumPy**. NumPy is a powerful library for numerical computing in Python and is widely used for handling arrays, performing mathematical operations, and improving performance compared to standard Python lists.
 
 ---
@@ -59,5 +55,6 @@ pip install numpy
 
 ## ⭐ Support
 If this project helps you, star ⭐ the repo to support it!
+
 
 
